@@ -1,0 +1,63 @@
+﻿"Labour force characteristics, monthly, seasonally adjusted and trend-cycle, last 5 months 1 2 3"
+"Frequency: Monthly"
+"Table: 14-10-0287-01 (formerly CANSIM 282-0087)"
+"Release date: 2021-12-03"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography 4","Canada",,,,,
+,"Sex","Both sexes",,,,,
+,"Age group","15 years and over",,,,,
+,"Statistics","Estimate",,,,,
+"Labour force characteristics","Data type","January 2021","February 2021","March 2021","April 2021","May 2021","June 2021"
+,,"Persons",,,,,
+"Population 5 6","Seasonally adjusted  (x 1,000)","31,191.2","31,216.2","31,234.5","31,251.6","31,265.9","31,283.3"
+,"Trend-cycle 7","..","..","..","..","..",".."
+"Labour force 8","Seasonally adjusted  (x 1,000)","20,171.0","20,196.2","20,351.1","20,267.5","20,211.6","20,381.5"
+,"Trend-cycle 7","..","..","..","..","..",".."
+"Employment 9","Seasonally adjusted  (x 1,000)","18,272.0","18,531.2","18,834.3","18,627.2","18,559.2","18,789.9"
+,"Trend-cycle 7  (x 1,000)","18,518.1","18,555.5","18,595.9","18,648.7","18,708.1","18,804.3"
+"Full-time employment 10","Seasonally adjusted  (x 1,000)","15,132.3","15,220.5","15,395.9","15,266.5","15,252.7","15,219.5"
+,"Trend-cycle 7","..","..","..","..","..",".."
+"Part-time employment  11","Seasonally adjusted  (x 1,000)","3,139.7","3,310.7","3,438.5","3,360.7","3,306.5","3,570.4"
+,"Trend-cycle 7","..","..","..","..","..",".."
+"Unemployment 12","Seasonally adjusted  (x 1,000)","1,899.0","1,665.1","1,516.7","1,640.3","1,652.3","1,591.6"
+,"Trend-cycle 7","..","..","..","..","..",".."
+,,"Percentage",,,,,
+"Unemployment rate 13","Seasonally adjusted","9.4","8.2","7.5","8.1","8.2","7.8"
+,"Trend-cycle 7","..","..","..","..","..",".."
+"Participation rate 14","Seasonally adjusted","64.7","64.7","65.2","64.9","64.6","65.2"
+,"Trend-cycle 7","..","..","..","..","..",".."
+"Employment rate 15","Seasonally adjusted","58.6","59.4","60.3","59.6","59.4","60.1"
+,"Trend-cycle 7","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+
+
+Footnotes:
+1,"Fluctuations in economic time series are caused by seasonal, cyclical and irregular movements. A seasonally adjusted series is one from which seasonal movements have been eliminated. Seasonal movements are defined as those which are caused by regular annual events such as climate, holidays, vacation periods and cycles related to crops, production and retail sales associated with Christmas and Easter. It should be noted that the seasonally adjusted series contain irregular as well as longer-term cyclical fluctuations. The seasonal adjustment program is a complicated computer program which differentiates between these seasonal, cyclical and irregular movements in a series over a number of years and, on the basis of past movements, estimates appropriate seasonal factors for current data. On an annual basis, the historic series of seasonally adjusted data are revised in light of the most recent information on changes in seasonality."
+2,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+3,"For more information on seasonal adjustment see <a href="http://www.statcan.gc.ca/eng/dai/btd/sad-faq">Seasonally adjusted data - Frequently asked questions</a>."
+4,"Excluding the territories."
+5,"Number of persons of working age, 15 years and over. Estimates in thousands, rounded to the nearest hundred."
+6,"From December 2000 to January 2001, there is a slight level shift in the population series. This is due to the 2015 population rebasing, which was revised back to 2001. This level shift is evident for certain age groups and in two provinces (Manitoba and Saskatchewan). These shifts are minor for labour force estimates and rates."
+8,"Number of civilian, non-institutionalized persons 15 years of age and over who, during the reference week, were employed or unemployed. Estimates in thousands, rounded to the nearest hundred."
+9,"Number of persons who, during the reference week, worked for pay or profit, or performed unpaid family work or had a job but were not at work due to own illness or disability, personal or family responsibilities, labour dispute, vacation, or other reason. Those persons on layoff and persons without work but who had a job to start at a definite date in the future are not considered employed. Estimates in thousands, rounded to the nearest hundred."
+10,"Full-time employment consists of persons who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+11,"Part-time employment consists of persons who usually work less than 30 hours per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+12,"Number of persons who, during the reference week, were without work, had looked for work in the past four weeks, and were available for work. Those persons on layoff or who had a new job to start in four weeks or less are considered unemployed. Estimates in thousands, rounded to the nearest hundred."
+13,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, sex, marital status, etc.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth."
+14,"The participation rate is the number of labour force participants expressed as a percentage of the population 15 years of age and over. The participation rate for a particular group (age, sex, marital status, etc.) is the number of labour force participants in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+15,"The employment rate is the number of persons employed expressed as a percentage of the population 15 years of age and over. The employment rate for a particular group (age, sex, marital status, etc.) is the number employed in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+7,"These data represent a smoothed version of the seasonally adjusted time series. They provide information on longer-term movements, including changes in direction underlying the series. For more information, see <a href="http://www.statcan.gc.ca/eng/dai/btd/tce-faq">Trend-cycle estimates: Frequently asked questions</a>."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0287-01  Labour force characteristics, monthly, seasonally adjusted and trend-cycle, last 5 months"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701
