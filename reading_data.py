@@ -1,19 +1,8 @@
-"""CSC110 Fall 2021 Project, Part 2: Reading data sets
-
+"""
 Notes:
-===============================
 This program extracts the data for building GDP prediction model.
 
-Copyright and Usage Information
-===============================
-
-This file is provided solely for the personal and private use of students
-taking CSC110 at the University of Toronto St. George campus. All forms of
-distribution of this code, whether as given or with any changes, are
-expressly prohibited. For more information on copyright for CSC110 materials,
-please consult our Course Syllabus.
-
-This file is Copyright (c) 2021 Jerry Zhu, Jack Sun, Nicholas Au
+By Jerry Zhu, Jack Sun, Nicholas Au
 """
 import csv
 import datetime
